@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Agnes Augustine</title>
+    <link>https://AgnesElza.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Agnes Augustine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://AgnesElza.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Early Lightning detection using Machine Learning </title>
+      <link>https://AgnesElza.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AgnesElza.github.io/Portfolio/post/project-1/</guid>
+      <description> We used data from weather API to predict occurence of lightning. This was built as a part of Smart India Hackathon 2019. We used Decion Trees to make the prediction.  </description>
+    </item>
+    
+    <item>
+      <title>Project 2 : Which countries spent more time on Kaggle?</title>
+      <link>https://AgnesElza.github.io/Portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AgnesElza.github.io/Portfolio/post/project-6/</guid>
+      <description>Data from kaggle . Explored and analysed data to get some insights from survey data.  Link to Kaggle notebook</description>
+    </item>
+    
+    <item>
+      <title>Project 3: EDA:Effect of diet and happiness on Covid19</title>
+      <link>https://AgnesElza.github.io/Portfolio/post/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AgnesElza.github.io/Portfolio/post/project-7/</guid>
+      <description>Data from kaggle . Explored and analysed data to get some insights from different datasets. #    Link to Kaggle notebook</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Exploratory Data Analysis on Cardamom price data</title>
+      <link>https://AgnesElza.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AgnesElza.github.io/Portfolio/post/project-3/</guid>
+      <description>Data was scraped from Spicesboard website. Seaborn was used with Python. Visualizations helped us to extract insights and patterns from data.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 5 :Exploratory Data Analysis on Covid19 data from John Hopkins</title>
+      <link>https://AgnesElza.github.io/Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AgnesElza.github.io/Portfolio/post/project-5/</guid>
+      <description>Data from kaggle . Explored and analysed data to get some insights about Covid19.     Link to Kaggle notebook</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Wine Classification using MLP classifier</title>
+      <link>https://AgnesElza.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AgnesElza.github.io/Portfolio/post/project-2/</guid>
+      <description>Simple neural network for classification Class imbalances are managed. Explored loss curve and confusion matrix.  #  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 7 :Regression on housing price data</title>
+      <link>https://AgnesElza.github.io/Portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://AgnesElza.github.io/Portfolio/post/project-4/</guid>
+      <description>Bank data from Kaggle was used . Linear Regressor, SGD Regressor and Random Forest Regressor were trained on same data.     Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
